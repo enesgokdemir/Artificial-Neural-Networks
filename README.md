@@ -1,1 +1,2 @@
-# artificial-neural-networks
+# Artificial Neural Networks
+El Yazısı Rakam Tanıma
